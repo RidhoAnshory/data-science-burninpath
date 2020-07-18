@@ -1,6 +1,6 @@
 library("data.table")
 
-#Set your data working directory
+#Set your data working directory, this folder will generate your plot and also put the dataset on this folder
 setwd("~/Rstudio Tour/data-science-burninpath/4-Exploratory-Data-Analysis/Course-Project-1/data")
 
 #Reads in data from file then subsets data for specified dates
