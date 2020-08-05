@@ -2,7 +2,9 @@
 title: "Tooth_Growth"
 author: "Ridho Anshory"
 date: "8/5/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 <style type="text/css">
 
